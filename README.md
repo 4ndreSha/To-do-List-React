@@ -1,5 +1,5 @@
-# JS-React-Tasks
-JS Practice React course from Modsen
+# To-Do-List-React
+React pet project
 
 Completed by Andrew Nesteruk
 
