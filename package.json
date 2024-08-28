@@ -1,5 +1,5 @@
 {
-  "name": "js-react-tasks",
+  "name": "To-Do-List-React",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/4ndreSha/JS-React-Tasks.git"
+    "url": "git+https://github.com/4ndreSha/To-Do-List-React.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/4ndreSha/JS-React-Tasks/issues"
+    "url": "https://github.com/4ndreSha/To-Do-List-React/issues"
   },
-  "homepage": "https://4ndreSha.github.io/JS-React-Tasks",
+  "homepage": "https://4ndreSha.github.io/To-Do-List-React",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
